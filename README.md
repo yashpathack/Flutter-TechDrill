@@ -1,2 +1,4 @@
 # Flutter-TechDrill-
-TechDrill Space
+
+
+This repo will contain the snippets for the TechDrill. 
