@@ -81,3 +81,9 @@ class MeraHome extends StatelessWidget {
 
 
 ```
+
+Resources:
+
+
+https://flutterawesome.com/
+https://material.io/icons/
